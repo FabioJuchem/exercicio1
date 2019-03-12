@@ -6,6 +6,6 @@ Arquivos:
 status.txt
 logs.txt
 
-Para clonar o repositório ultilize:
+Para clonar o repositório utilize:
 
 ** git clone https://github.com/FabioJuchem/exercicio1 **
