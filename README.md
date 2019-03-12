@@ -8,4 +8,4 @@ logs.txt
 
 Para clonar o repositório utilize:
 
-** git pull **
+** git clone https://github.com/FabioJuchem/exercicio1 **
