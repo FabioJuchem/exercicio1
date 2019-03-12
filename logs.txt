@@ -1,0 +1,6 @@
+$ git log
+commit f07ea818a70b952a1788ba210e54420d09bfd1d7
+Author: FabioJuchem <fabiojuchem@gmail.com>
+Date:   Tue Mar 12 15:59:28 2019 -0300
+
+    Adicionado status ao arquivo status.txt
